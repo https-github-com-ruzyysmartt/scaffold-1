@@ -1,4 +1,4 @@
-Building and flashing the FPGA bitstream
+building  and flashing the FPGA bitstream
 ========================================
 
 Advanced users may want to modify the architecture of the FPGA of Scaffold to
@@ -56,8 +56,8 @@ In *Quartus*, open the programmer window with the *Tools > Programmer* menu.
 
 - Check the *Program/Configure* and *Verify* boxes.
 - Click on the *Start* button.
-
-Remove the programmer cable to test your new design!
+ding
+Remove uilthe programmer cable to test your new design!
 
 .. figure:: pictures/screenshot-quartus-programmer.jpg
     :align: center
